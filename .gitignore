@@ -1,0 +1,8 @@
+# secrets and build output
+db.properties
+out/
+bin/
+*.class
+# MySQL driver is downloaded by the user (see README)
+lib/*.jar
+.idea/
